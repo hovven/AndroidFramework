@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Framework</string>
+
+    <!-- Strings related to HttpStatusMessage -->
+    <string name="unauthorized">نام کاربری و یا کلمه ی عبور اشتباه است</string>
+    <string name="not_found">برای ورود ابتدا باید ثبت نام کنید</string>
+    <string name="internal_server_error">قادر به برقراری ارتباط با سرور نمی باشد</string>
+    <string name="bad_request">خطا در ورود اطلاعات. لطفا دوباره تلاش کنید</string>
+</resources>

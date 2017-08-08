@@ -1,0 +1,2 @@
+include ':lib'/*,':sugar'
+project(':sugar').projectDir = new File('E:/Java/AndroidStudioProjects/GenericProjects/Sugar/lib')*/
